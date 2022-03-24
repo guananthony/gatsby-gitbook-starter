@@ -1,15 +1,15 @@
 ---
-title: "Introduction"
+title: "Get Started"
 metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Markdown link handling for relative and absolute URLs. Easy to customise.
+Here's how to use Obsidian with your application.
 
-# Heading H1
+# Obsidian Router
 Heading 1 text
 
-## Heading H2
+## Obsidian Wrapper
 Heading 2 text
 
 ### Heading H3
