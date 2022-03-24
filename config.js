@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://w7.pngwing.com/pngs/180/135/png-transparent-redis-microsoft-azure-cache-nosql-computer-icons-cloud-computing-blue-angle-text-thumbnail.png',
+    logo: '',
     logoLink: 'https://hasura.io/learn/',
     title: "<a href='https://hasura.io/learn/'>OBSIDIAN</a>",
     githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
