@@ -6,9 +6,9 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'OBSIDIAN',
+    logo: './src/assets/imgs/D31BBEA7-20FB-4647-BFDB-3843D2ABE1A0.PNG',
     logoLink: 'https://hasura.io/learn/',
-    title: "<a href='https://hasura.io/learn/'>GraphQL, built for Deno</a>",
+    title: "<a href='https://hasura.io/learn/'>OBSIDIAN</a>",
     githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
     helpUrl: '',
     tweetText: '',
